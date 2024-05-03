@@ -1,3 +1,4 @@
 I'm Yaasiin
-Front-End Developer
-Graphic Design
+Full Stack Developer
+Team Work
+Team Collabration
